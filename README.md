@@ -93,7 +93,7 @@ if running on linux, recommended to run in full screen for full compatability
 
 
 ## 📍 Authors
-- Aviv Neeman (GitHub owner) – [anksilae@gmail.com](mailto:anksilae@gmail.com)
+- Aviv Neeman (GitHub owner) – [neemanaviv@gmail.com](mailto:neemanaviv@gmail.com)
 - Noa Shalom
 - Gil Aharon
 - Amnon Pozailov
