@@ -96,7 +96,7 @@ if running on linux, recommended to run in full screen for full compatability
 - Aviv Neeman (GitHub owner) – [neemanaviv@gmail.com](mailto:neemanaviv@gmail.com)
 - Noa Shalom
 - Gil Aharon
-- Amnon Pozailov
+
 
 ## 📌 Dataset Links
 - **Training Set:**
